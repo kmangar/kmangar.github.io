@@ -1,2 +1,0 @@
-# kmangar
-github page
