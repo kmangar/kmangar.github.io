@@ -38,7 +38,7 @@ footer p {
 }
 
 .me-img {
-    height: 300px;
+    height: 200px;
     border-radius: 50%;
     transition: transform .5s;
 }
